@@ -9,6 +9,7 @@ The goal of this repository is to master dictionary mappings, set operations, an
 ## 📁 Repository Structure
 
 * **01_Dict_Sets_Basics.py** – Foundational introduction to creating, accessing, and modifying dictionaries and sets.
+* **02_Dictionary.py** – Comprehensive guide to dictionary structures, accessing data, and mastering essential methods (`.keys()`, `.values()`, `.items()`, `.get()`, `.update()`).
 
 ---
 
